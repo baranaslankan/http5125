@@ -1,0 +1,6 @@
+@CCCAssignment_HostAddress = http://localhost:5208
+
+GET {{CCCAssignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
